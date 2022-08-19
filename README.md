@@ -1,6 +1,6 @@
 # 5th-semester-syllabus
 ## Topics to be covered:
-###1. System Software
+### 1. System Software
 
 #### Unit - I<br />
 Machine Architecture <br />
@@ -14,7 +14,7 @@ Macro Processor<br />
 #### Unit – V<br />
 Lex and Yacc <br />
 
-###2. Operating System
+### 2. Operating System
 
 #### Unit - I<br />
 Introduction to Operating Systems, UNIX <br />
@@ -31,7 +31,7 @@ Secondary Storage Structures, Protection<br/>
 Shell Programming<br />
 Case Study: The Linux Operating System<br />
 
-###3. Data Base Management Systems
+### 3. Data Base Management Systems
 
 #### Unit - I<br />
 Introduction to DBMS <br />
@@ -46,7 +46,7 @@ Database Design – 1<br/>
 #### Unit – V<br />
 Transaction Management<br />
 
-###4. Software Engineering
+### 4. Software Engineering
 
 #### Unit - I<br />
 Introduction to  Software Engineering <br />
@@ -61,7 +61,7 @@ Testing<br/>
 #### Unit – V<br />
 Software Maintenance and Software Project Management<br />
 
-###5. Machine Learning
+### 5. Machine Learning
 
 #### Unit-I<br/>
 
@@ -88,7 +88,7 @@ Deep Learning Tools<br/>
 #### Unit – V<br/>
 Reinforcement Learning<br/>
 
-###6. Computer Based Numerical and Statistical Technique
+### 6. Computer Based Numerical and Statistical Technique
 
 #### Unit - I<br />
 Introduction <br />
